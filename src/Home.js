@@ -8,7 +8,7 @@ function Home() {
           <div className="home">
 
             <div className="home_container">
-                <img src="https://www.x-cart.com/wp-content/uploads/2019/01/ecommerce.jpg" height="400" width="1280" alt="background-image" className="home_image"/>
+                <img src="https://www.x-cart.com/wp-content/uploads/2019/01/ecommerce.jpg" alt="background" className="home_image"/>
 
                 <div className="home_row">
                   <Product/>
