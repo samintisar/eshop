@@ -6,7 +6,7 @@ function CheckoutProduct() {
         <div className="checkoutProduct">
             <img src="https://m.media-amazon.com/images/I/71+g-qsSOsS._AC_UL1500_.jpg" alt="" className="checkoutProduct_image" />
 
-            <div className="product_info">
+            <div className="checkoutProduct_info">
                 <p className="checkoutProduct_title">Bag</p>
 
                 <p className="checkoutProduct_price">
